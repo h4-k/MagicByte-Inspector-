@@ -23,12 +23,15 @@ A lightweight Python tool for detecting file formats by analyzing magic numbers 
 
 ## 🚀 Quick Start
 
+### Clone the repository
+
 ```bash
-# Clone the repository
 git clone https://github.com/yourusername/magicbyte-inspector.git
 ```
 
--# Developed by H4K
-
-# Run the detector
+### Run the detector
+```bash
 python magicbyte.py <filename>
+```
+
+#### Developed By H4K
